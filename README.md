@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Loubna SOUSSI</h1>
 <h3 align="center">I'm a Full-Stack web Developer</h3>
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me: loubnasoussi15489@gmail.com</h3>
 <p align="left">
 </p>
 
